@@ -1,3 +1,5 @@
+#### This is a modified version to better display cross-module dependencies in eventdex-modules project.
+
 <p align="center">
 	<img alt="madge" src="http://pahen.github.io/madge/logo.svg" width="320">
 </p>
